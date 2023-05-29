@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Expander", "04_Expander\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_TabControl", "05_TabControl\05_TabControl.csproj", "{CD016A33-E7FA-47E3-B38E-3C7C4CFE279D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW", "Ex_01\HW.csproj", "{95450185-E3F9-4CA2-9A78-1848C7B97A00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW", "HW\HW.csproj", "{95450185-E3F9-4CA2-9A78-1848C7B97A00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
